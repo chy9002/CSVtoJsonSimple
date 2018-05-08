@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Lily Haywood",
+        "birthday": {
+            "day": "27",
+            "month": "3",
+            "year": "1995"
+        },
+        "house": {
+            "type": "Igloo",
+            "address": {
+                "street": "768 Pocket Walk",
+                "city": "Honolulu",
+                "state": "HI"
+            },
+            "occupants": "7"
+        }
+    },
+    {
+        "name": "Stan Marsh",
+        "birthday": {
+            "day": "19",
+            "month": "10",
+            "year": "1987"
+        },
+        "house": {
+            "type": "Treehouse",
+            "address": {
+                "street": "2001 Bonanza Street",
+                "city": "South Park",
+                "state": "CO"
+            },
+            "occupants": "2"
+        }
+    }
+]
